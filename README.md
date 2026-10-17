@@ -8,11 +8,6 @@ Ce dépôt contient le travail réalisé pour le TP « Transfer Learning et Appr
 
 ## 1. Contenu
 
-| Fichier | Rôle |
-|---|---|
-| `TP_Transfer_Learning_Multitache_Complet.ipynb` | Notebook complet : code commenté, sorties, courbes, analyses (exercices 1, 2, 3 + synthèse) |
-| `Rapport_TP_Transfer_Learning_Multitache.pdf` | Compte-rendu de 11 pages (format demandé : 10–15 pages) à déposer sur Classroom |
-| `README.md` | Ce fichier |
 
 Dossiers créés à l'exécution du notebook :
 
